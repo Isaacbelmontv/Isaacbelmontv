@@ -2,7 +2,7 @@
   
 # Hi there, I'm Isaac Belmont! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<img src="https://komarev.com/ghpvc/?username=Isaacbelmontv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Isaacbelmontv&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 
 </div>
 
