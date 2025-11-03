@@ -2,10 +2,6 @@
   
 # Hi there, I'm Isaac Belmont! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;5%2B+Years+of+Experience;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=Isaacbelmontv&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
